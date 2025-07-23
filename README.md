@@ -22,7 +22,7 @@ If you use or extend our work, please cite the following ICDE 2021 paper:
 
 ### 1. Install st2g
 
-Install from [here](https://github.com/security-kg/st2g)
+Install from [here](https://github.com/peng-gao-lab/st2g)
 
 ### 2. Build ANTLR 4 parser files
 
